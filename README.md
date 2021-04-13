@@ -7,4 +7,4 @@ To run the project, copy the project2.py file into the lambda console on Amazonâ
 
 A sample of the interaction can be found out: https://www.youtube.com/watch?v=vpDwgaLsjJQ
 
-Two voice poetry is generally not a commonly published work, but can be a remarkable experience to have with another or to see in person. Given the circumstances of 2020, many have not had the opportunity to share such interactions. This poem was inspired by life, death, and nature and the chance encounters that we could have and the chance for novel interactions.
+Two voice poetry is generally not a commonly published work, but can be a remarkable experience to have with another or to see in person. Given the circumstances of 2020, many have not had the opportunity to share such interactions. This poem was inspired by life, death, and nature and the chance encounters that we could have and the chance for novel interactions. The poem is available in this repository and written so that the stanzas can be read in any order. This increases the number of possible iterations between person and machine in addition to the random nature of the lexbot's responses.
